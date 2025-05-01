@@ -1,6 +1,7 @@
 Overview:
 
-- Basic static page to practice Bootstrap
+- Basic static pages to practice Bootstrap
+- Organized into their own folders
 
 Technologies Used:
 
