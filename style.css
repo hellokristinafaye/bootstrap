@@ -1,15 +1,16 @@
 * {
     margin: 0;
     padding: 0;
-    background: rgb(167, 160, 160);
 }
+.container 
+
 header {
     text-align: center;
     padding: 20px;
-    color: white;
+    color: rgb(43, 35, 35);
 }
 
 main {
-    width: 80%;
+    /* width: 80%; */
     margin: 0 auto;
 }
