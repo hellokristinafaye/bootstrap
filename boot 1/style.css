@@ -9,4 +9,6 @@
 
 .hero {
     text-align: center;
+    width: 30%;
+    margin: 100px auto;
 }
