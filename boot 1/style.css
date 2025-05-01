@@ -25,6 +25,9 @@
     margin: 0 auto;
     padding: 100px;
 }
+.card {
+    margin: 10px;
+}
 
 .footer-container {
     width: 60%;
