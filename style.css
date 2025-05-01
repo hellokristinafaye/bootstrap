@@ -11,3 +11,9 @@ header {
 .header-title {
     font-weight: 100;
 }
+
+
+.cards {
+    width: 50%;
+    margin: 0 auto;
+}
