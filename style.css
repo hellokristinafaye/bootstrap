@@ -2,3 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
+header {
+    text-align: center;
+    width: 50%;
+    margin: 40px auto;
+}
+.header-title {
+    font-weight: 100;
+}
